@@ -21,6 +21,7 @@ class _LoginScreenState extends State<LoginScreen> {
         title: Text('Login'),
         centerTitle: true,
         automaticallyImplyLeading: false,
+        
       ),
       body: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 20),
